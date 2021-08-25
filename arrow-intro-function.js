@@ -1,4 +1,4 @@
-// -------------------file name:arrow-function-intro.js----------------------- -->
+// -------------------file name:arrow-intro-function.js----------------------- -->
 // example 01:general function declaration:-->
 function add(num1, num2) {
   const sum = num1 + num2;
